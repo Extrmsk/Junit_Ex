@@ -4,6 +4,7 @@ public class Calc {
 	
 	public int add(int a, int b) {
 		System.out.println("commt in master");
+		System.out.println("commmit im master2");
 		return a+b;
 	}
 	
