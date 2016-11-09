@@ -7,7 +7,8 @@ public class Calc {
 	}
 	
 	public int div(int a, int b) {
+		System.out.println("This is new line in new branch");
 		return a/b;
 	}
-
+	
 }
