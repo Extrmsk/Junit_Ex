@@ -3,6 +3,7 @@ package com.lemanov.calc;
 public class Calc {
 	
 	public int add(int a, int b) {
+		System.out.println("commt in master");
 		return a+b;
 	}
 	
